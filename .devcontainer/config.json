@@ -4,7 +4,7 @@
   },
   "inbounds": [
     {
-      "tag": "vless-in",
+      "tag": "loxantrialn",
       "port": 443,
       "protocol": "vless",
       "settings": {
@@ -20,7 +20,7 @@
         "network": "xhttp",
         "xhttpSettings": {
           "mode": "packet-up",
-          "path": "/"
+          "path": "/@zim_xhttp01"
         }
       }
     }
